@@ -48,8 +48,8 @@ I am currently a master student at ENS Paris-Saclay (M2 [MVA](https://www.master
 ## Links
 
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="28" alt="gmail"/>](mailto:quentinpour@gmail.com) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="28" alt="linkedin"/>](https://www.linkedin.com/in/quentin-moayedpour-42558bb6/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" alt="gmail"/>](mailto:quentinpour@gmail.com) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="60" alt="linkedin"/>](https://www.linkedin.com/in/quentin-moayedpour-42558bb6/)
 
 
 
