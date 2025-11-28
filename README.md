@@ -4,18 +4,10 @@
 
 I am currently a master student at ENS Paris-Saclay (M2 [MVA](https://www.master-mva.com/)) and [ENSAE](https://www.ensae.fr/en) Paris (Engineering cycle). My academic journey and projects center around statistics and machine learning, with a particular focus on deep learning in recent years.
 
-<div style="display:flex; flex-direction: row;">
-  <img align="left" width="250" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
-  <img align="center" width="250" height="200" src="https://tethys-engineering.pnnl.gov/sites/default/files/taxonomy-images/ENSParisSaclay_logo.png">
+<div style="display:flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <img width="250" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE">
+  <img width="250" height="200" src="https://tethys-engineering.pnnl.gov/sites/default/files/taxonomy-images/ENSParisSaclay_logo.png" alt="ENS Paris-Saclay">
 </div>
-
-
-&nbsp;
-
-&nbsp;
-
-
-
 
 ## Recent (public) Work
 
