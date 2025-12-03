@@ -31,6 +31,8 @@ I am currently a master student at ENS Paris-Saclay (M2 [MVA](https://www.master
 
 * [Pseudo Inverse Guided Diffusion Models for inverse problems](https://github.com/Juju85194/Generative_Modeling_Project?tab=readme-ov-file), Song & Al. [2023](https://openreview.net/forum?id=9_gsMA8MRKQ): A Problem Agnostic Method to solve inverse problems using diffusion models
 
+* [LiTE Pytorch](https://github.com/QMoayedpour/LiTE_pytorch), M. Devanne, M. Ismail-Fawaz & Al. [2023](https://maxime-devanne.com/delegation/publis/ismail-fawaz_dsaa2023.pdf): A pytorch implementation of the model LiTE for time series classification.
+
 * [Detecting changes in slope with an L0 penalty](https://github.com/QMoayedpour/Change-Point-Detection-L1-Penalty?tab=readme-ov-file), Maidstone & Al. [2019](https://arxiv.org/pdf/1701.01672): Changepoint detection with l0 penalty by using dynamic programming
 
 * [Prototypical Networks for Few-shot Learning](https://github.com/NailKhelifa/PrototypicalFewShots?tab=readme-ov-file), Snell & Al. [2017](https://arxiv.org/abs/1703.05175): A neural network designed to handle few shot learning by "learning to separate"
